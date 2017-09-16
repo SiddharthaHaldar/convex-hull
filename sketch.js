@@ -18,6 +18,7 @@ button.mousePressed(regen)
 generatepts();
 drawpoints();
 console.log(points)
+console.log(min)
 pzero();
 console.log(min)
 console.log(points)
